@@ -23,7 +23,8 @@ import os
 import random
 import zipfile
 
-import numpy as npimport urllib
+import numpy as np
+import urllib
 import tensorflow as tf
 
 # Step 1: Download the data.
